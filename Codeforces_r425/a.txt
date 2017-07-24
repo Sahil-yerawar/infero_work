@@ -1,0 +1,12 @@
+abcde
+*a?b?cd
+3
+aabccd
+xyzaabccd
+aacbccd
+
+abc
+a?*?a
+2
+acca
+abdba
